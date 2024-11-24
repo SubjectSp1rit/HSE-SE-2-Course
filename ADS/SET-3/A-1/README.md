@@ -3,8 +3,8 @@ a1.xlsx - таблица с результатами выполнения про
 A1.pdf - отчет  
 
 <p align="center">
-  <img src="A-3_1.png" alt="A-3_1">
-  <img src="A-3_2.png" alt="A-3_2">
-  <img src="A-3_3.png" alt="A-3_3">
-  <img src="A-3i.png" alt="A-3i">
+  <img src="A-1_1.png" alt="A-1_1">
+  <img src="A-1_2.png" alt="A-1_2">
+  <img src="A-1_3.png" alt="A-1_3">
+  <img src="A-1i.png" alt="A-1i">
 </p>
