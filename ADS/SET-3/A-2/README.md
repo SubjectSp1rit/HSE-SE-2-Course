@@ -3,8 +3,7 @@ A2.xlsx - таблица с результатами выполнения про
 A2.pdf - отчет  
 
 <p align="center">
-  <img src="A-3_1.png" alt="A-3_1">
-  <img src="A-3_2.png" alt="A-3_2">
-  <img src="A-3_3.png" alt="A-3_3">
-  <img src="A-3i.png" alt="A-3i">
+  <img src="A-2_1.png" alt="A-2_1">
+  <img src="A-2_2.png" alt="A-2_2">
+  <img src="A-2i.png" alt="A-2i">
 </p>
